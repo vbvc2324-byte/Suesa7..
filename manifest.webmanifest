@@ -1,0 +1,10 @@
+{
+  "name": "SUESA7 ☠",
+  "short_name": "SUESA7",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#02040a",
+  "theme_color": "#02040a",
+  "orientation": "portrait",
+  "description": "Painel SUESA7 gamer futurista."
+}
